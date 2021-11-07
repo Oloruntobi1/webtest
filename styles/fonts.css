@@ -1,0 +1,69 @@
+/*------------------------------------
+  Associate Sans
+------------------------------------*/
+@font-face {
+  font-family: 'Associate Sans';
+  src: url('/assets/fonts/associatesans/AssociateSansLight.eot');
+  src: url('/assets/fonts/associatesans/AssociateSansLight.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/associatesans/AssociateSansLight.woff2') format('woff2'),
+    url('/assets/fonts/associatesans/AssociateSansLight.woff') format('woff'),
+    url('/assets/fonts/associatesans/AssociateSansLight.ttf') format('truetype'),
+    url('/assets/fonts/associatesans/AssociateSansLight.svg#svgFontName')
+      format('svg');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Associate Sans';
+  src: url('/assets/fonts/associatesans/AssociateSansRegular.eot');
+  src: url('/assets/fonts/associatesans/AssociateSansRegular.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/associatesans/AssociateSansRegular.woff2')
+      format('woff2'),
+    url('/assets/fonts/associatesans/AssociateSansRegular.woff') format('woff'),
+    url('/assets/fonts/associatesans/AssociateSansRegular.ttf')
+      format('truetype'),
+    url('/assets/fonts/associatesans/AssociateSansRegular.svg#svgFontName')
+      format('svg');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Associate Sans';
+  src: url('/assets/fonts/associatesans/AssociateSansMedium.eot');
+  src: url('/assets/fonts/associatesans/AssociateSansMedium.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/associatesans/AssociateSansMedium.woff2') format('woff2'),
+    url('/assets/fonts/associatesans/AssociateSansMedium.woff') format('woff'),
+    url('/assets/fonts/associatesans/AssociateSansMedium.ttf')
+      format('truetype'),
+    url('/assets/fonts/associatesans/AssociateSansMedium.svg#svgFontName')
+      format('svg');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Associate Sans';
+  src: url('/assets/fonts/associatesans/AssociateSansBold.eot');
+  src: url('/assets/fonts/associatesans/AssociateSansBold.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/associatesans/AssociateSansBold.woff2') format('woff2'),
+    url('/assets/fonts/associatesans/AssociateSansBold.woff') format('woff'),
+    url('/assets/fonts/associatesans/AssociateSansBold.ttf') format('truetype'),
+    url('/assets/fonts/associatesans/AssociateSansBold.svg#svgFontName')
+      format('svg');
+  font-weight: 700;
+}
+
+/*------------------------------------
+  Gilroy
+------------------------------------*/
+@font-face {
+  font-family: 'Gilroy';
+  src: url('/assets/fonts/gilroy/Gilroy-SemiBold.eot');
+  src: url('/assets/fonts/gilroy/Gilroy-SemiBold.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/gilroy/Gilroy-SemiBold.woff2') format('woff2'),
+    url('/assets/fonts/gilroy/Gilroy-SemiBold.woff') format('woff'),
+    url('/assets/fonts/gilroy/Gilroy-SemiBold.ttf') format('truetype'),
+    url('/assets/fonts/gilroy/Gilroy-SemiBold.svg#svgFontName') format('svg');
+  font-weight: 600;
+}

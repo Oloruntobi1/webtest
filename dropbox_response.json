@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "headers": {},
+  "result": {
+    "name": "sample.pdf",
+    "path_lower": "/senior-engineer/sample.pdf",
+    "path_display": "/senior-engineer/sample.pdf",
+    "id": "id:YQySkxpyU7AAAAAAAAAAFA",
+    "client_modified": "2021-05-31T13:53:29Z",
+    "server_modified": "2021-05-31T13:53:29Z",
+    "rev": "015c3a08ce80eec000000023cfc7530",
+    "size": 3028,
+    "is_downloadable": true,
+    "content_hash": "93e67b2ff2140c3a3f995ff9e536c4cb58b5df482dd34d47a39cf3337393ef7e"
+  }
+}

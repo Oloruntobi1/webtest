@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="collapse navbar-collapse navbar-nav-wrap-collapse"
+  id="navBar"
+>
+  <div
+    className="navbar-body header-abs-top-inner py-3"
+  >
+    <ul
+      className="js-scroll-nav navbar-nav header-navbar-nav"
+    >
+      <li
+        className="navbar-nav-item mx-lg-4 navItem"
+      >
+        <a
+          className="nav-link font-weight-normal text-center px-0 py-2 navLink"
+          href="/jobs"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          Job Openings
+        </a>
+      </li>
+      <li
+        className="navbar-nav-item mx-lg-4 navItem"
+      >
+        <a
+          className="nav-link font-weight-normal text-center px-0 py-2 navLink"
+          href="/#about"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          About Us
+        </a>
+      </li>
+      <li
+        className="navbar-nav-item mx-lg-4 navItem"
+      >
+        <a
+          className="nav-link font-weight-normal text-center px-0 py-2 navLink"
+          href="/finding-talent"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          Finding Talent
+        </a>
+      </li>
+      <li
+        className="navbar-nav-item mx-lg-4 navItem"
+      >
+        <a
+          className="nav-link font-weight-normal text-center px-0 py-2 navLink"
+          href="/#contact"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          Contact
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

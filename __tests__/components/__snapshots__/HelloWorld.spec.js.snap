@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<h1
+  style={
+    Object {
+      "color": "red",
+      "fontSize": "14px",
+    }
+  }
+>
+  HelloWorld
+</h1>
+`;

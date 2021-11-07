@@ -1,0 +1,59 @@
+.cardWrapper {
+  position: relative;
+}
+
+.arrows {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 48%;
+  left: 18px;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  fill: #fff;
+  cursor: pointer;
+  flex-direction: row;
+  width: 99%;
+  justify-content: space-between;
+}
+
+.arrowRow {
+  background-color: #ffffff;
+  opacity: 1;
+  border-radius: 20px;
+  border-width: 0px;
+  width: 40px;
+  height: 40px;
+  justify-content: center !important;
+  align-items: center !important;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  padding: 5px;
+}
+
+.imageReverse {
+  transform: scaleX(-1);
+}
+
+.dots {
+  width: 98%;
+  top: 90%;
+  position: absolute;
+  justify-content: flex-end;
+  left: 70px;
+  z-index: -10;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.dotsImage {
+  width: 100px;
+  height: 100px;
+}
+
+@media screen and (min-width: 768px) {
+  .dotsImage {
+    width: 134px;
+    height: 134px;
+  }
+}

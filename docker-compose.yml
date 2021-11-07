@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  dev:
+    build: .
+    command: yarn run dev
+    volumes:
+      - .:/app
+      - yarn-volume:/app/node_modules
+    ports:
+      - 3000:3000
+
+volumes:
+  yarn-volume:
